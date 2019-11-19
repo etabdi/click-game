@@ -1,8 +1,7 @@
 
 # Clicky Game
 
-## Heroku Link: https://true-news.herokuapp.com/
-/
+    Heroku Link: https://click-ga.herokuapp.com/
 
    ![Alt Text](https://github.com/etabdi/click-game/blob/master/src/images/home.JPG)
 
