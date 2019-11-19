@@ -1,5 +1,6 @@
 {
   "name": "click-game",
+  "homepage": "https://etabdi.github.io/click-game/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
