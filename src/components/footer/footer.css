@@ -1,0 +1,12 @@
+.footer {
+
+  color: orange;
+  font-size: 22px;
+  height: 60px;
+  position: fixed;
+  bottom: 0px;
+  margin-top: 30px;
+  width:100%;
+  background-color: #000c0c;
+ 
+  }
