@@ -4,7 +4,7 @@
 ## Heroku Link:
  https://true-news.herokuapp.com/
 
-   ![Alt Text](https://github.com/etabdi/All-the-News-That-s-Fit-to-Scrape/blob/master/public/assets/img/logo.JPG)
+   ![Alt Text](https://github.com/etabdi/click-game/blob/master/src/images/home.JPG)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
