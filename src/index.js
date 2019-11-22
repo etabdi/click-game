@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ClickyGame from './components/ClickyGame';
+import ClickyGame from './components/app';
 
 import beth from './images/beth.jpg';
 import tweety from './images/Tweety.gif';
