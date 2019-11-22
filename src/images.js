@@ -11,19 +11,6 @@ import Ape from './images/Ape.jpg';
 import Squirrl from './images/Squirrl.jpg';
 import Tom from './images/Tom.jpg';
 
-const images = [
-  beth,
-  tweety,
-  Dopy,
-  Homer,
-  Gifer,
-  Pikachu,
-  Tricky,
-  Steven,
-  Bird,
-  Ape,
-  Squirrl,
-  Tom
-];
+const images = [beth,  tweety,  Dopy,  Homer,  Gifer,  Pikachu,  Tricky,  Steven,  Bird,  Ape,  Squirrl,  Tom];
 
 export default images;
